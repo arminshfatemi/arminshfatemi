@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning back-end development with django
+- 🌱 I’m currently learning back-end development with python django
 - 👯 I’m looking to collaborate on an Internship
 - 💬 Ask me about python, django, HTML, CSS, SQL 
 
