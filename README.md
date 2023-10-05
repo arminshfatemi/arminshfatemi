@@ -2,9 +2,9 @@
 
 ### About me
 
-I'm a self-taught 🧑‍💻 python back-end developer who seeks more knowledge and learning more . <br>
+I'm a self-taught 🧑‍💻 python back-end developer who seeks more knowledge . <br>
 I love coding and learning about programming and i always try to learn more . <br>
-Beside back-end i'm interested in security🔒,hacking👨‍💻, web crawling, telegram bots 🤖  and linux🐧 . <br>
+Except back-end developing i'm interested in security🔒,hacking👨‍💻, web crawling, telegram bots 🤖  and linux🐧 . <br>
 
 ### My job
 Currently i'm back-end developer intern , i hope with hardworking i will be a junior back-end developer  . <br>
