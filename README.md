@@ -2,15 +2,15 @@
 
 ### About me
 
-I'm a self-taught 🧑‍💻 python back-end developer who seeks more knowledge . <br>
-I love coding and learning about programming  . <br>
-Except back-end developing I'm interested in many concepts  <br>
+I'm a self-taught 🧑‍💻 back-end developer who seeks more knowledge. <br>
+I love coding and learning about programming. <br>
+Except back-end developing I'm interested in many concepts.<br>
 
 ### My job
 
-Currently, I'm junior back-end developer , I hope with hardworking i will get enough experience to become senior
-back-end developer. <br>
-My work experience is in building website's back-end , automations and APIs for AI models .<br>
+Currently, I'm junior back-end developer , I hope with hardworking i will gain more experience to become better back-end developer. <br>
+Ihave strong passion for working with Golang and become deeper inside it.<br>
+My work experience is in building website's back-end , automations and APIs for AI models .<br>c
 
 ### Contact Me by :
 
