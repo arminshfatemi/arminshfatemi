@@ -10,7 +10,7 @@ Except back-end developing I'm interested in many concepts.<br>
 
 Currently, I'm junior back-end developer , I hope with hardworking i will gain more experience to become better back-end developer. <br>
 Ihave strong passion for working with Golang and become deeper inside it.<br>
-My work experience is in building website's back-end , automations and APIs for AI models .<br>c
+My work experience is in building website's back-end , automations and APIs for AI models .<br>
 
 ### Contact Me by :
 
