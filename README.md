@@ -1,53 +1,50 @@
-# Hi there 👋 I'm Armin Fatemi
+## Hi, I'm Armin 👋
 
-### About me
+Backend engineer mainly working with **Go** and **Python**.  
+I enjoy building backend services, exploring distributed systems, and learning how things work under the hood.
 
-I'm a self-taught 🧑‍💻 back-end developer who seeks more knowledge. <br>
-I love coding and learning about programming. <br>
-Except back-end developing I'm interested in many concepts.<br>
-
-### My job
-
-Currently, I'm junior back-end developer , I hope with hardworking i will gain more experience to become better back-end developer. <br>
-Ihave strong passion for working with Golang and become deeper inside it.<br>
-My work experience is in building website's back-end , automations and APIs for AI models .<br>
-
-### Contact Me by :
-
-Email : arminsh610@gmail.com
-
-# 💻 Tech Skills
-
-## Languages :
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
-![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-## Python skills:
-
-[![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white)
-[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-
-## OS :
-
-![](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)
-
-## Database :
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-## Other
-
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ---
-[![](https://visitcount.itsvg.in/api?id=arminshfatemi&icon=3&color=1)](https://visitcount.itsvg.in)
 
+## 🧰 Tech Stack
 
+- **Languages:** Go, Python  
+- **Backend:** Django / DRF, Go Fiber, Echo, Gin  
+- **APIs:** REST, gRPC, WebSocket  
+- **Databases:** PostgreSQL, MongoDB, Redis, Cassandra  
+- **Messaging:** RabbitMQ  
+- **DevOps & Tools:** Docker, Linux, Git  
+- **Monitoring:** Prometheus, Grafana  
+
+---
+
+## 💼 Experience
+
+I’ve worked on backend systems such as:
+- Microservices and REST APIs with Go and Python
+- High-traffic services and performance-critical systems
+- Network monitoring and data-heavy backend products
+- Event-driven systems using message queues
+
+---
+
+## 🌍 Open Source
+
+- **Docker Docs** – Fixed a Windows CMD command in official documentation  
+  https://github.com/docker/docs/pull/18243
+
+- **Echo (Golang)** – Fixed an issue in a rate-limit middleware example  
+  https://github.com/labstack/echox/pull/348
+
+---
+
+## 🗄️ goKV (Open Source / WIP)
+
+A **key-value database written in Go**.  
+This is a learning project focused on:
+- Storage engines
+- Concurrency
+- Clean architecture
+
+The project is still a **work in progress**, and I’m using it to better understand database and distributed system concepts.
+
+---
