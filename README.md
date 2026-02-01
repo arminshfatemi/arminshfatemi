@@ -13,7 +13,7 @@ I enjoy building backend services, exploring distributed systems, and learning h
 - **Databases:** PostgreSQL, MongoDB, Redis, Cassandra  
 - **Messaging & Streaming:** RabbitMQ, Kafka  
 - **DevOps & Tools:** Docker, Linux, Git  
-- **Monitoring:** Prometheus, Grafana  
+- **Monitoring:** Prometheus  
 
 ---
 
