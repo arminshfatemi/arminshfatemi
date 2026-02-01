@@ -11,7 +11,7 @@ I enjoy building backend services, exploring distributed systems, and learning h
 - **Backend:** Django / DRF, Go Fiber, Echo, Gin  
 - **APIs:** REST, gRPC, WebSocket  
 - **Databases:** PostgreSQL, MongoDB, Redis, Cassandra  
-- **Messaging:** RabbitMQ  
+- **Messaging & Streaming:** RabbitMQ, Kafka  
 - **DevOps & Tools:** Docker, Linux, Git  
 - **Monitoring:** Prometheus, Grafana  
 
