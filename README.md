@@ -45,6 +45,8 @@ This is a learning project focused on:
 - Concurrency
 - Clean architecture
 
+https://github.com/arminshfatemi/GoKV
+
 The project is still a **work in progress**, and I’m using it to better understand database and distributed system concepts.
 
 ---
